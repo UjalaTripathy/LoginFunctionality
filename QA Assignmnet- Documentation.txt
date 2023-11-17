@@ -1,0 +1,13 @@
+QA Assignmnet:
+
+1.To automate the Login page I have used Selenium WebDriver with TestNG tools.
+2.Downloaded the Eclipse and set up the Selenium configuration with all the libraries and drivers.
+3.Created the selenium webdriver instance to launch the chrome browser.
+4.Configured the web browser to maximize for the clear picture to execute the test case.
+5.Navigated to the desired URL page to open.
+6.Interacted with web elements with the help of locators.
+7.Inspected the username and password field to locate the element using ID locator.
+8.Performed action by entering the values on required field with sendKeys() and click().
+9.To validate the results I have used "if and else" in 1st scenario and "assertion" in 2nd scenario..
+if the result matches with actual then it will pass or else it will fail.
+10.I have taken 2 scenario with 1 positive check and with negative username. And same we can check in testNG report of the excution.
